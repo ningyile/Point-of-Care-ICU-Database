@@ -5,7 +5,7 @@
 
 
 ## Introduction
-This is a demo of English localization version, it based on part of the Chinese version we use in clinical practice.  
+This is a demo of English localization version, it's based on part of the Chinese version we use in clinical practice.  
   
 Point of Care ICU Database contains APACHE II score, SOFA score and other common tools. You can collcet the data at a patient's bedside with iphone or ipad which is conected to your LAN host, once you change data on your device, data can be automatically updated on the host, and vice versa.  
 
