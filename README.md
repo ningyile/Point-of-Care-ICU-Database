@@ -5,7 +5,7 @@
 ## Introduction
 This is a demo of English localization version, it's based on part of the Chinese version we use in clinical practice.  
   
-Point of Care ICU Database contains APACHE II score, SOFA score and other common tools. You can collcet the data at a patient's bedside with iphone or ipad which is conected to your LAN host, once you change data on your device, data can be automatically updated on the host, and vice versa.  
+Point of Care ICU Database contains APACHE II score, SOFA score and other common tools. You can collcet the data at a patient's bedside with iPhone or iPad which is conected to your LAN host, once you change data on your device, data can be automatically updated on the host, and vice versa.  
 
 Any bugs or problems, please contact me, ningyile@qq.com
 
@@ -36,7 +36,7 @@ Any bugs or problems, please contact me, ningyile@qq.com
   <img src="https://github.com/ningyile/Point-of-Care-ICU-Database/raw/master/IMG/UI07.jpg" width="90%" height="90%" />
 </p>
 
-#### Software Interface of iphone
+#### Software Interface of iPhone
 <p align="center">
   <img src="https://github.com/ningyile/Point-of-Care-ICU-Database/raw/master/IMG/UI08.jpg" width="45%" height="45%" />
 </p>
@@ -46,7 +46,7 @@ Any bugs or problems, please contact me, ningyile@qq.com
 
 
 >## How to use
-Open "Point of Care ICU Database" on PC, MAC with FileMaker Pro 17 Advanced, or on iphone, ipad with FileMaker Go 17. In particular, the software can be used on PC, MAC, iphone or ipad stand alone or connected to a local area network(LAN) host. See instructions below or video tutorial of this app for more details.
+Open "Point of Care ICU Database" on PC, MAC with FileMaker Pro 17 Advanced, or on iPhone, iPad with FileMaker Go 17. In particular, the software can be used on PC, MAC, iPhone or iPad stand alone or connected to a local area network(LAN) host. See instructions below or video tutorial of this app for more details.
 
 
 >>### Account and initial password
@@ -80,7 +80,7 @@ You can log in the database with these default accounts and corresponding initia
 
 
 >>### How to use POC ICU Database on a standalone mobile device
-1. Iphone or ipad connect PC, MAC via iTunes. Drag the app into FileMaker Go 17.
+1. Iphone or iPad connect PC, MAC via iTunes. Drag the app into FileMaker Go 17.
 <p align="center">
   <img src="https://github.com/ningyile/Point-of-Care-ICU-Database/raw/master/IMG/Standalone01.jpg" width="90%" height="90%" />
 </p>
