@@ -1,9 +1,6 @@
 # Point of Care ICU Database V1.0.18.11.11
 # POC ICU Database
 
-## Video Tutorial
-[![Watch the video](https://github.com/ningyile/Point-of-Care-ICU-Database/raw/master/IMG/Video.jpg)](https://youtu.be/46oBBi16IqE)
-
 
 ## Introduction
 This is a demo of English localization version, it's based on part of the Chinese version we use in clinical practice.  
