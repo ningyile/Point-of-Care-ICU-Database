@@ -2,6 +2,16 @@
 # POC ICU Database
 
 
+
+
+
+
+<p align="center"> [Click Me for Video Tutorial](https://youtu.be/Sb5DvTK-gf4)</p>
+[![Watch the video](https://github.com/ningyile/Point-of-Care-ICU-Database/raw/master/IMG/Video.jpg)](https://youtu.be/Sb5DvTK-gf4)
+
+
+
+
 ## Introduction
 This is a demo of English localization version, it's based on part of the Chinese version we use in clinical practice.  
   
