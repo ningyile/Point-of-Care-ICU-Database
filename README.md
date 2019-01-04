@@ -6,7 +6,7 @@
 
 
 
-<p align="center"> [Click Me for Video Tutorial](https://youtu.be/Sb5DvTK-gf4)</p>
+## <p align="center"> [Click Me for Video Tutorial](https://youtu.be/Sb5DvTK-gf4)</p>
 [![Watch the video](https://github.com/ningyile/Point-of-Care-ICU-Database/raw/master/IMG/Video.jpg)](https://youtu.be/Sb5DvTK-gf4)
 
 
