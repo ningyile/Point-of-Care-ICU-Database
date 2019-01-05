@@ -64,7 +64,7 @@ You can log in the database with these default accounts and corresponding initia
 
 |Account    | Remark                      | Initial Password | Privilege |
 |:---------:|:---------------------------:|:----------------:|:---------:|
-| PI        | Primary Investigator        | 0                | PI        |
+| PI        | Principal Investigator      | 0                | PI        |
 | CRA       | Clinical Research Associate | 0                | CRA       |
 | Doctor A  | Sub Investigator            | 0                | Sub-I     |
 | Doctor B  | Sub Investigator            | 0                | Sub-I     |
