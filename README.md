@@ -4,7 +4,7 @@
 
 
 
-## <p align="center"> [打开腾讯视频观看教程及简介](https://v.qq.com/x/page/w0836zmbqfc.html)</p>
+## <p align="center"> [打开腾讯视频观看教程及简介](https://v.qq.com/x/page/e08385g4mk4.html)</p>
 ## <p align="center"> [Click Me for Video Tutorial](https://youtu.be/e8s5lYBJD7g)</p>
 [![Watch the video](https://github.com/ningyile/Point-of-Care-ICU-Database/raw/master/IMG/Video.jpg)](https://youtu.be/e8s5lYBJD7g)
 
